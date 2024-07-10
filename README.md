@@ -34,11 +34,9 @@ currentRoundNumber: Tracks the current round number.
 ----------------------------------------------------
 INSTALLATION PROCESS:
 
-1. Clone the repository or download the file 
+1. Make your own file of this project with code included
 
-   git clone https://github.com/your-username/Number-Guesser.git
-
-2. Navigate to your IDE (integrated development environment) and IDE terminal and type:
+2. After opening this project in your IDE navigate to your IDE (integrated development environment) terminal and type:
    1. ls /Users/yourname/Number\ Guesser
    2. cd /Users/yourname/Number\ Guesser
  
