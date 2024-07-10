@@ -1,6 +1,6 @@
 # Number-Guesser
 
-The Number Guesser Project is a simple, yet feature packet Javascript game, where a human competes based on their inputs against the computer to guess a randomly generated number from 0 - 9. Whoever guess is closest to the target number wins the round! Scores are tracked for both the human and the computer, and the game progresses through multiple rounds.
+The Number Guesser Project is a simple, yet feature packed Javascript game, where a human competes based on their inputs against the computer to guess a randomly generated number from 0 - 9. Whoever guess is closest to the target number wins the round! Scores are tracked for both the human and the computer, and the game progresses through multiple rounds.
 
 How Does The Program Work?
 
