@@ -29,5 +29,5 @@ humanScore: Tracks the human player's score.
 computerScore: Tracks the computer's score.
 
 currentRoundNumber: Tracks the current round number.
-------------------------------------------------------------------
+
 Enjoy playing the Number Guesser game and may the best guesser win!
