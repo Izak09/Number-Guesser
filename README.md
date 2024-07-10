@@ -31,5 +31,20 @@ humanScore: Tracks the human player's score.
 computerScore: Tracks the computer's score.
 
 currentRoundNumber: Tracks the current round number.
+----------------------------------------------------
+INSTALLATION PROCESS:
+
+1. Clone the repository or download the file 
+
+   git clone https://github.com/your-username/Number-Guesser.git
+
+2. Navigate to your IDE (integrated development environment) and IDE terminal and type:
+   1. ls /Users/yourname/Number\ Guesser
+   2. cd /Users/yourname/Number\ Guesser
+ 
+3. After this, it should run and based on your or computers number guess it will determine who got closer to the desired number.
+---------------------------------------------------------------------------------------------------------------------------------
+This is the most simple and effective way to make this game work.
+
 
 Enjoy playing the Number Guesser game and may the best guesser win!
